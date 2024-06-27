@@ -1,5 +1,6 @@
 1.Redux Cart Application :
-       This application is a shopping cart built using React and Redux Toolkit. It allows users to manage their cart by adding, removing, and updating the quantity of items.
+
+   -   This application is a shopping cart built using React and Redux Toolkit. It allows users to manage their cart by adding, removing, and updating the quantity of items.
 
 2. Features :
 
